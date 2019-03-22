@@ -6,7 +6,7 @@
 
 ## Description
 
-_This here lies Evan's journey towards becoming a web developer. On this page you'll find hidden links(see known bugs below) to four projects Evan has worked on while learning HTML and css. You'll learn a little about the man behind the page._
+_This here lay Evan's journey towards becoming a web developer. On this page you'll find hidden links(see known bugs below) to four projects Evan has worked on while learning HTML and css. You'll learn a little about the man behind the page._
 
 ## Install
 
