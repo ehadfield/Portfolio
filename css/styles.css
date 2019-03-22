@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
+hr {
+  border: 4px solid darkgray;
+}
+
 .center {
   display: block;
   margin-left: auto;
