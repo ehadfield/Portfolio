@@ -20,11 +20,11 @@ _3/22/19: Due to how I chose to link my projects on the page, there's no visual 
 
 _If you'd like to get in touch with the creator, email them here: hadfield.evan@gmail.com_
 
-# gh-pages links
+# gh-pages link
 
 https://ehadfield.github.io/Portfolio
 
-##License
+## License
 
 Copyright (c) 2019 Evan Hadfield.
 
