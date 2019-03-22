@@ -6,6 +6,7 @@ body {
 
 h1 {
   text-align: center;
+  color: #A7D6EF;
 }
 
 hr {
@@ -38,14 +39,12 @@ hr {
 
 h2 {
   text-align: center;
+  color: #A7D6EF;
 }
 
 h4 {
   text-align: center;
-}
-
-body {
-  background-color: #cce7ff;
+  color: #A7D6EF;
 }
 
 .image-cropper {
@@ -81,4 +80,14 @@ ul {
 
 .bold {
   font-weight: bold;
+}
+
+@media screen and (max-width: 992px) {
+  .sidebar {
+    min-height: auto;
+    height: 40vh;
+  }
+
+p {
+  color: #A7D6EF;
 }
