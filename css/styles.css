@@ -63,15 +63,6 @@ img {
     width: auto;
 }
 
-.row{
-    overflow: hidden;
-}
-
-[class*="col-"]{
-    margin-bottom: -99999px;
-    padding-bottom: 99999px;
-}
-
 ul {
   list-style: none;
   padding-left: 0px;
@@ -86,5 +77,8 @@ ul {
 .body-pad {
   padding-bottom: 15px;
   padding-top: 15px;
+}
 
+.bold {
+  font-weight: bold;
 }
