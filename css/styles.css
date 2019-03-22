@@ -6,6 +6,8 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
+
 }
 
 .col-md-3 {
@@ -21,4 +23,23 @@ h2 {
 
 h4 {
   text-align: center;
+}
+
+body {
+  background-color: #cce7ff;
+}
+
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
 }
