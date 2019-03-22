@@ -4,7 +4,6 @@ body {
   margin-bottom: 100px;
 }
 
-
 h1 {
   text-align: center;
 }
@@ -14,7 +13,6 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
-
 }
 
 .col-md-3 {
@@ -32,7 +30,6 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 h2 {
@@ -71,16 +68,19 @@ img {
     padding-bottom: 99999px;
 }
 
-/*.col-md-3,.col-md-12 {
-background-color: #e8eaed;
-background-color: rgba(245, 245, 245, 0.4);
+ul {
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
 }
 
-p {
-  padding: 10px;
-  text-shadow: 1px 1px #ffffff;
+.p-cent {
+  text-align: center;
+  font-weight: bold;
 }
 
-h1, h2, h3 {
-  text-shadow: 1px 1px #ffffff;
+.body-pad {
+  padding-bottom: 15px;
+  padding-top: 15px;
+
 }
